@@ -10,14 +10,14 @@ GAPS is the largest dataset of real guitar audio (as of Nov 2024), containing 14
 ## Preview of Data
 #### Audio File:
 <audio controls>
-    <source src="{{site.baseurl}}/assets/media/-Sswc.mp3" type="audio/mpeg">
+    <source src="{{ site.baseurl }}/assets/media/-Sswc.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
 
 #### MIDI File:
 <script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0"></script>
 <midi-player
-  src="{{site.baseurl}}/assets/media/-Sswc-fine-aligned.mid"
+  src="{{ site.baseurl }}/assets/media/-Sswc-fine-aligned.mid"
   sound-font visualizer="#myVisualizer">
 </midi-player>
 <midi-visualizer type="piano-roll" id="myVisualizer"></midi-visualizer>
