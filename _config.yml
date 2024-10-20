@@ -23,8 +23,8 @@ email: j.x.riley@qmul.ac.uk zixun.guo@qmul.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   GAPS is the largest dataset of real guitar audio (as of Nov 2024), containing 14 hours of freely available audio-score aligned pairs, recorded in diverse conditions by over 200 performers, 
   together with high-resolution note-level MIDI alignments and performance videos.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://guozixunnicolas.github.io/GAPS_Classical_Guitar/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/GAPS_Classical_Guitar" # the subpath of your site, e.g. /blog
+url: "https://aim-qmul.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: nicolasguozixun nicolasguozixun
 # github_username:  jekyll
 
